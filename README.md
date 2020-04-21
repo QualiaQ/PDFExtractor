@@ -1,4 +1,4 @@
-# PDFExtractor
+# PDF Extractor
 This is a simple python script for extracting pages from .pdf files.
 
 I wrote this to be able to save articles from books and collections in separate files.
